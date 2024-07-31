@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Katrina Bazemore (she/her), an Epidemiology PhD Student at UPenn
+
+I'm currently working on polygenic risk score development for neurodegenerative diseases and the study of gene-environment interactions.
+
 <!--
 **KSBazemore/KSBazemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
